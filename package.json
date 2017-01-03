@@ -1,6 +1,6 @@
 {
   "name": "myclinic-consts",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Definition of constants for myclinic (an electronic medical record system for small clinics)",
   "main": "index.js",
   "repository": {
@@ -8,7 +8,7 @@
     "url": "https://github.com/hangilc/myclinic-consts.git"
   },
   "scripts": {
-  	"compile": "tsc"
+    "compile": "tsc"
   },
   "author": "Hangil Chang",
   "license": "MIT"
